@@ -24,3 +24,11 @@
 8. Withdraw 1000 tk by customer and assert expected balance
 9. Send 500 tk to another customer and assert expected balance
 10. Check customer statement
+
+
+Reports:
+
+![Capture](https://user-images.githubusercontent.com/83439797/225512827-c88624f1-b905-4d6e-9c62-e1ee01327b88.PNG)
+
+
+![Capture2](https://user-images.githubusercontent.com/83439797/225512838-fcf9561d-f1ce-403a-9dda-e5cc452aaef0.PNG)
