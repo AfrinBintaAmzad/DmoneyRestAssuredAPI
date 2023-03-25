@@ -38,5 +38,11 @@ https://docs.google.com/spreadsheets/d/1KDKj3h965oHfH_y_S9EiQtPmotLYbWV8/edit?us
 ![Capture2](https://user-images.githubusercontent.com/83439797/225512838-fcf9561d-f1ce-403a-9dda-e5cc452aaef0.PNG)
 
 
+
+![Toru1](https://user-images.githubusercontent.com/83439797/227690118-2c714b7d-da12-4c0b-a081-e407c1487583.PNG)
+
+
+![Toru2](https://user-images.githubusercontent.com/83439797/227690124-206a816a-8ab5-407b-b249-ec16f141caac.PNG)
+
 [screen-capture (50).webm](https://user-images.githubusercontent.com/83439797/225514001-126a7978-2100-4992-ad15-2d3411d4147b.webm)
 
